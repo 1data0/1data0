@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @1data0
 - 👀 I’m interested in AWS, python, shell, linux and others
-- 🌱 I’m currently learning serverless 
 <!-- - 💞️ I’m looking to collaborate on 
  - 📫 How to reach me ... -->
 
